@@ -261,11 +261,6 @@ int main()
 	{
 		cout << "Graphical Representation of Data is not implemented yet." << endl;
 	}
-	else
-	{
-		cout << "Invalid choice. Please select a valid option." << endl;
-	}
 	// End of program
 
-	return 0;
 }
